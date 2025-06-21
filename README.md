@@ -1,4 +1,4 @@
 # My name demo
 this is my fist repostory.
 <br>
-Author -Sangam chauhan
+Author -Sangam (chauhan)
